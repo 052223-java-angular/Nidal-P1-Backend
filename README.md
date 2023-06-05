@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a Full Stack eCommerce application. The application will be primarily built using Java, HTML, CSS and angular. The project will utilize a PostgreSQL database to store breedres' profiles and their puppies and will allow user to reserve puppies and rate their experience with the purchase.
+This is a Full Stack reservation application. The application will be primarily built using Java, HTML, CSS and angular. The project will utilize a PostgreSQL database to store breedres' profiles and their puppies and will allow user to reserve puppies and rate their experience with the purchase.
 
 ## User Stories
 
