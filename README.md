@@ -10,9 +10,10 @@ This is a Full Stack for pet reservation application. The application will be pr
 
 - **As a breeder**, I want to register an account so that I can have my contact infromation on my profile.
 - **As a breeder**, I want to log in to my account so that I can remove sold pet or add pets for sale.
-- **As a user**, I want to browse through products without log in.
+- **As a user**, I want to browse through products without or with log in.
 - **As a user**, I want to search for products by name, breed, or price range so that I can find what I'm looking for.
 - **As a user**, I want to reserve a pet and send my contact information to the breeder.
+- **As a user**, I want to be able to pay deposit to the breeder.
 - **As a user**, I want to rate and review breeders so that I can share my experience with other users.
 - **As a user**, I want to view ratings and reviews from other users so that I can make informed buying decisions.
 
