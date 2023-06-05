@@ -19,20 +19,23 @@ This is a Full Stack for pet reservation application. The application will be pr
 
 
 ## MVP (Minimum Viable Product)
-
+- Adding Users profiles and save contact information. 
 - Breeder registration and login.
 - Customer Browsing and searching for pets.
 - Customer reservation.
 - Breeders rating and reviewing.
+- Showing the most selling breeders.
+- showing the high rated breeders.
+- User able to see reserved pet with reserved label on their page.
 
 ## Stretch Goals
 
 - Implementing a recommendation system based on user's previous purchases
-- Adding Users profiles and save contact information.
 - Adding an admin role that can add, remove, or modify breeders.
 - Showing the most selling breeders.
 - showing the high rated breeders.
-- User able to see reserved pet with reserved lable on their page.
+
+- User able to see reserved pet with reserved label on their page.
 
 ## Tech Stacks
 
