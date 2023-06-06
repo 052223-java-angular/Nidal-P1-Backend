@@ -4,34 +4,38 @@
 
 ## Introduction
 
-This is a Full Stack reservation application. The application will be primarily built using Java, HTML, CSS and angular. The project will utilize a PostgreSQL database to store breedres' profiles and their puppies and will allow user to reserve puppies and rate their experience with the purchase.
+This is a Full Stack for pet reservation application. The application will be primarily built using Java, HTML, CSS and angular. The project will utilize a PostgreSQL database to store breedres' profiles and their puppies and will allow user to reserve puppies and rate their experience with the purchase.
 
 ## User Stories
 
 - **As a breeder**, I want to register an account so that I can have my contact infromation on my profile.
 - **As a breeder**, I want to log in to my account so that I can remove sold pet or add pets for sale.
-- **As a user**, I want to browse through products without log in.
+- **As a user**, I want to browse through products without or with log in.
 - **As a user**, I want to search for products by name, breed, or price range so that I can find what I'm looking for.
 - **As a user**, I want to reserve a pet and send my contact information to the breeder.
+- **As a user**, I want to be able to pay deposit to the breeder.
 - **As a user**, I want to rate and review breeders so that I can share my experience with other users.
 - **As a user**, I want to view ratings and reviews from other users so that I can make informed buying decisions.
 
 
 ## MVP (Minimum Viable Product)
-
+- Adding Users profiles and save contact information. 
 - Breeder registration and login.
 - Customer Browsing and searching for pets.
 - Customer reservation.
 - Breeders rating and reviewing.
+- Showing the most selling breeders.
+- showing the high rated breeders.
+- User able to see reserved pet with reserved label on their page.
 
 ## Stretch Goals
 
 - Implementing a recommendation system based on user's previous purchases
-- Adding Users profiles and save contact information.
 - Adding an admin role that can add, remove, or modify breeders.
 - Showing the most selling breeders.
 - showing the high rated breeders.
-- User able to see reserved pet with reserved lable on their page.
+
+- User able to see reserved pet with reserved label on their page.
 
 ## Tech Stacks
 
