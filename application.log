@@ -1,0 +1,7 @@
+2023-06-08T14:03:57.979-04:00  WARN 2224 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-08T16:28:57.887-04:00  WARN 22160 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
+2023-06-08T16:28:57.891-04:00  WARN 22160 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : constraint "uk_i99q76hd0c9n1xc4r2yrmb3jh" of relation "sales_reserved" does not exist, skipping
+2023-06-08T16:28:58.012-04:00  WARN 22160 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-06-08T16:31:33.445-04:00  WARN 11804 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Warning Code: 0, SQLState: 00000
+2023-06-08T16:31:33.447-04:00  WARN 11804 --- [main] o.h.engine.jdbc.spi.SqlExceptionHelper   : constraint "uk_i99q76hd0c9n1xc4r2yrmb3jh" of relation "sales_reserved" does not exist, skipping
+2023-06-08T16:31:33.563-04:00  WARN 11804 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
