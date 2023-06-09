@@ -32,10 +32,7 @@ This is a Full Stack for pet reservation application. The application will be pr
 
 - Implementing a recommendation system based on user's previous purchases
 - Adding an admin role that can add, remove, or modify breeders.
-- Showing the most selling breeders.
-- showing the high rated breeders.
 
-- User able to see reserved pet with reserved label on their page.
 
 ## Tech Stacks
 
